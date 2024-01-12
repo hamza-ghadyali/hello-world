@@ -1,0 +1,8 @@
+Testing git push command
+before running
+
+git remote add origin "git@github.com......"
+
+because the local .git/config file seems to already have a section on remote origin because that's where I pulled from in the first place.
+
+
